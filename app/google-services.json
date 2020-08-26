@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358402315131",
+    "firebase_url": "https://brusocial-b7537.firebaseio.com",
+    "project_id": "brusocial-b7537",
+    "storage_bucket": "brusocial-b7537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358402315131:android:cd54483df5b7b3c24063de",
+        "android_client_info": {
+          "package_name": "com.pracsoft.brusocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358402315131-1e6bonc00rnsvoj2ua371pq7dd3b4tk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pracsoft.brusocial",
+            "certificate_hash": "f2a4565eff6cd014dba23f8a8daebce489d8a9c6"
+          }
+        },
+        {
+          "client_id": "358402315131-jc3bgoknkrdvjrvog9rhts28q4fusl9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9uMC8umOJGoYhG6wPTir-qxD8ybW2VPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358402315131-jc3bgoknkrdvjrvog9rhts28q4fusl9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
